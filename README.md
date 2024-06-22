@@ -1,5 +1,5 @@
 # PREVENCION-DE-LESIONES-EN-DEPORTISTAS
-(https://drive.google.com/file/d/1YGeUY6p1WeJvGWtbtSExLlWa1oRKkJgg/view?usp=sharing)
+![Banner](./PROYECTO%20IA/Banner.jpg)
 
 ## Autores
 - Breyner Santiago Peña Bello
