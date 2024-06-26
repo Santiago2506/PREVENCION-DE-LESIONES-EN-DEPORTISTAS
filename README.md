@@ -15,5 +15,5 @@ Puedes descargar el dataset utilizado en este proyecto [aquí](https://www.kaggl
 Decision Tree Classifier, Random Forest Classifier, Support Vector Classification (SVC), Decision Tree Regressor, Random Forest Regressor, Perceptrón Multicapa.
 ## Enlaces
 - [Código del Proyecto](https://drive.google.com/drive/folders/1ZXeiKIlbD2KPnna1glT8Pn9PTFA4LJUP?usp=sharing)
-- [Video Explicativo](https://youtu.be/IyQEck9lg7I)
+- [Video Explicativo](https://youtu.be/JrjQcOfYPdA?si=1Nj9hrsHn3aqwwRm)
 - [Repositorio](https://github.com/Santiago2506/PREVENCION-DE-LESIONES-EN-DEPORTISTAS)
